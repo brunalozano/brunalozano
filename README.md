@@ -19,11 +19,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunalozano&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
----
-
 ## 📫 Como me encontrar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunalozano2007@gmail.com)
 
