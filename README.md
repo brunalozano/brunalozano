@@ -1,9 +1,9 @@
 ## 👋 Olá, eu sou a Bruna!
 
--Sou estudante de Ciência da Computação (2/8) e estou cursando Técnico em Desenvolvimento de Sistemas.
--Atualmente estudando: Python, HTML e CSS.
--Buscando sempre aprender novas tecnologias
--Preparando-se para o mercado 
+-Sou estudante de Ciência da Computação (2/8) e estou cursando Técnico em Desenvolvimento de Sistemas.<br>
+-Atualmente estudando: Python, HTML e CSS.<br>
+-Buscando sempre aprender novas tecnologias.<br>
+-Preparando-se para o mercado.
 
 ---
 
@@ -15,6 +15,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
  <img align="center" alt="CSS" height="40" widt="40"
 scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</div>
 
 ---
 
