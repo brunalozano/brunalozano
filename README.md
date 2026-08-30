@@ -1,9 +1,9 @@
 ## 👋 Olá, eu sou a Bruna!
 
--Sou estudante de Ciência da Computação (2/8) e estou cursando Técnico em Desenvolvimento de Sistemas.<br>
--Atualmente estudando: Python, HTML e CSS.<br>
--Buscando sempre aprender novas tecnologias.<br>
--Preparando-se para o mercado.
+- Sou estudante de Ciência da Computação (2/8) e estou cursando Técnico em Desenvolvimento de Sistemas.<br>
+- Atualmente estudando: Python, HTML e CSS.<br>
+- Buscando sempre aprender novas tecnologias.<br>
+- Preparando-se para o mercado.
 
 ---
 
